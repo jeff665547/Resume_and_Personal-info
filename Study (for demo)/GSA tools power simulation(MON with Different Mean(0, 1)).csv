@@ -1,0 +1,19 @@
+"","countH_Pseudo_Perm","countG","countG_Perm","countGlobalAncova","countN_Perm","countGSEA_Category"
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:50,difference:0",0.054,0.06,0.059,0.058,0.065,0.061
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:50,difference:0.05",0.054,0.067,0.065,0.06,0.066,0.064
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:50,difference:0.1",0.057,0.076,0.076,0.075,0.077,0.078
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:50,difference:0.3",0.104,0.231,0.227,0.218,0.21,0.231
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:50,difference:0.5",0.199,0.499,0.496,0.479,0.483,0.493
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:50,difference:0.7",0.382,0.789,0.786,0.771,0.762,0.787
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:50,difference:0.9",0.602,0.942,0.939,0.936,0.929,0.94
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:50,difference:1",0.697,0.972,0.969,0.967,0.969,0.972
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:50,difference:2",1,1,1,1,1,1
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:70,difference:0",0.069,0.062,0.061,0.052,0.064,0.059
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:70,difference:0.05",0.072,0.065,0.066,0.062,0.069,0.065
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:70,difference:0.1",0.078,0.088,0.086,0.078,0.086,0.093
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:70,difference:0.3",0.122,0.312,0.31,0.291,0.278,0.31
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:70,difference:0.5",0.254,0.643,0.64,0.624,0.609,0.647
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:70,difference:0.7",0.463,0.904,0.904,0.894,0.898,0.901
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:70,difference:0.9",0.711,0.989,0.988,0.984,0.987,0.987
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:70,difference:1",0.816,0.995,0.995,0.995,0.995,0.995
+"composition:0.5 0.5 ,rho:0.1 0.9 ,probes:30,size:70,difference:2",1,1,1,1,1,1

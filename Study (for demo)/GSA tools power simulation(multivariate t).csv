@@ -1,0 +1,10 @@
+"","countH_Pseudo_Perm","countG","countG_Perm","countGlobalAncova","countN_Perm","countGSEA_Category"
+"composition:1 ,rho:0.9 ,df:3,probes:30,size:70,difference:0",0.062,0.049,0.053,0.05,0.049,0.059
+"composition:1 ,rho:0.9 ,df:3,probes:30,size:70,difference:0.05",0.077,0.065,0.07,0.061,0.067,0.066
+"composition:1 ,rho:0.9 ,df:3,probes:30,size:70,difference:0.1",0.091,0.087,0.086,0.081,0.104,0.088
+"composition:1 ,rho:0.9 ,df:3,probes:30,size:70,difference:0.3",0.215,0.311,0.317,0.305,0.425,0.32
+"composition:1 ,rho:0.9 ,df:3,probes:30,size:70,difference:0.5",0.467,0.663,0.658,0.648,0.823,0.667
+"composition:1 ,rho:0.9 ,df:3,probes:30,size:70,difference:0.7",0.752,0.873,0.882,0.868,0.986,0.881
+"composition:1 ,rho:0.9 ,df:3,probes:30,size:70,difference:0.9",0.918,0.958,0.962,0.959,1,0.963
+"composition:1 ,rho:0.9 ,df:3,probes:30,size:70,difference:1",0.961,0.976,0.982,0.976,1,0.984
+"composition:1 ,rho:0.9 ,df:3,probes:30,size:70,difference:2",1,1,1,1,1,1
